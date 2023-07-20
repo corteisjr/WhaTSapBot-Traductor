@@ -1,0 +1,13 @@
+[80233:80233:0720/180557.415472:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.133 (not a warning)
+[80233:80233:0720/180611.243579:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[80233:80233:0720/180611.243650:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[80233:80269:0720/180612.524761:WARNING:bus.cc(644)] Bus::SendWithReplyAndBlock took 1001ms to process message: type=method_call, path=/org/freedesktop/DBus, interface=org.freedesktop.DBus, member=StartServiceByName
+[80233:80269:0720/180612.524840:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[80233:80233:0720/180616.651800:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[80233:80233:0720/180616.744413:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.portal.Error.NotFound: Definição solicitada não encontrada
+[80233:80266:0720/180626.764304:ERROR:nss_util.cc(357)] After loading Root Certs, loaded==false: NSS error code: -8018
+[80284:80284:0720/180634.858051:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[80233:80233:0720/180640.866288:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[80233:80233:0720/180640.866438:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[80233:80233:0720/181137.364919:WARNING:compositor_animation_observer.cc(64)] CompositorAnimationObserver is active for too long (149.143s) location=AnimationContainerWasSet@ui/views/animation/animation_delegate_views.cc:38
+[80284:80409:0720/181137.514034:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 178 is too big.

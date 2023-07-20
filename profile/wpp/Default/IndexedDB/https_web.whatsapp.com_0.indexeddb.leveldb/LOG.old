@@ -1,0 +1,25 @@
+2023/07/20-17:44:59.170 ff72 Reusing MANIFEST /home/corteisjr/Documentos/projeto/Projectos/WhatsApBot/profile/wpp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/20-17:44:59.171 ff72 Recovering log #113
+2023/07/20-17:44:59.407 ff72 Reusing old log /home/corteisjr/Documentos/projeto/Projectos/WhatsApBot/profile/wpp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000113.log 
+2023/07/20-17:45:26.265 ff65 Level-0 table #120: started
+2023/07/20-17:45:26.585 ff65 Level-0 table #120: 1286008 bytes OK
+2023/07/20-17:45:26.687 ff65 Delete type=0 #113
+2023/07/20-17:45:26.692 ff63 Compacting 1@1 + 3@2 files
+2023/07/20-17:45:28.008 ff63 Generated table #121@1: 77783 keys, 2273232 bytes
+2023/07/20-17:45:28.324 ff63 Generated table #122@1: 15179 keys, 2191998 bytes
+2023/07/20-17:45:28.679 ff63 Generated table #123@1: 20970 keys, 977024 bytes
+2023/07/20-17:45:28.679 ff63 Compacted 1@1 + 3@2 files => 5442254 bytes
+2023/07/20-17:45:28.857 ff63 compacted to: files[ 0 0 3 0 0 0 0 ]
+2023/07/20-17:45:28.857 ff63 Delete type=2 #116
+2023/07/20-17:45:28.857 ff63 Delete type=2 #115
+2023/07/20-17:45:28.857 ff63 Delete type=2 #117
+2023/07/20-17:45:28.857 ff63 Delete type=2 #120
+2023/07/20-18:03:22.163 ff65 Level-0 table #125: started
+2023/07/20-18:03:22.387 ff65 Level-0 table #125: 1346401 bytes OK
+2023/07/20-18:03:22.496 ff65 Delete type=0 #119
+2023/07/20-18:03:22.503 ff63 Compacting 1@1 + 3@2 files
+2023/07/20-18:03:22.789 ff63 Generated table #126@1: 81188 keys, 2254181 bytes
+2023/07/20-18:03:22.967 ff63 Generated table #127@1: 15322 keys, 2223226 bytes
+2023/07/20-18:03:23.260 ff63 Generated table #128@1: 22149 keys, 1160268 bytes
+2023/07/20-18:03:23.260 ff63 Compacted 1@1 + 3@2 files => 5637675 bytes
+2023/07/20-18:03:23.481 ff63 compacted to: files[ 0 0 3 0 0 0 0 ]
