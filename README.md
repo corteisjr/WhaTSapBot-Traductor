@@ -21,7 +21,7 @@ O bot é construído usando as seguintes dependências:
 
 - Python 3.x
 - Selenium WebDriver
-- Alguma biblioteca de tradução,  Google Translate API.
+- Google Translate API.
 
 ## Configuração
 
